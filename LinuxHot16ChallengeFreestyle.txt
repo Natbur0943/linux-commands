@@ -102,3 +102,6 @@
 # 32. ps
 Sprawdzanie komunikatów 
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 33. systemctl
+# Współpracuje z usługami z terminala
