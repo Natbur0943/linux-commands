@@ -29,8 +29,8 @@
 # 9. rm
 # Kasuje plik
 
-# 10. chmod
-# Zmienia prawa dostępu do pliku (grupy użytkowników: u - user, g - group, o - others, a - all prawa dostępu: r - read, w - write, x - execute)
+# 10. systemctl
+# Współpracuje z usługami z terminala
 
 # 11. locate
 # Wypisuje gdzie ostatnio, na tym komputerze, był widziany plik o podanej nazwie (lub fragmencie nazwy)
@@ -44,8 +44,8 @@
 # 14. ps 
 # Pokaz procesy ((ps -e, ps -a) - pokaz wszystkie procesy)
 
-# 15. kill
-# Zakoncz proces
+# 15. su
+# Szybka zmiana loginu 
 
 # 16. clear
 # Wyczyśc okienko terminala
@@ -76,7 +76,7 @@
 # Dodawanie nowego użytkownika 
 
 # 24. newgrp
-# Dodawanie nowej grupylub przełączanie na inną
+# Dodawanie nowej grupy lub przełączanie na inną
 
 # 25. passwd
 # Zmiana hasla
@@ -90,8 +90,8 @@
 # 28. users
 # Pokazuje kto jest zalogowany
 
-# 29. su
-# Szybka zmiana loginu 
+# 29. systemctl
+# Współpracuje z usługami z terminala
 
 # 30. gzip
 # Kompresuje nam archiwum *.qz 
@@ -101,7 +101,4 @@
 
 # 32. ps
 Sprawdzanie komunikatów 
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
 
-# 33. systemctl
-# Współpracuje z usługami z terminala
