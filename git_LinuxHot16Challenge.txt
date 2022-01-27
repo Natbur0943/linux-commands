@@ -1,0 +1,103 @@
+# AUTOR: Natalia Burnyashova
+
+# HOT 16
+
+# 1. cd
+# Zmienia aktualny katalog (change durectory)
+
+# 2. pwd
+# Wypisuje ścieżkę obecnego katalogu (print working directory)
+
+# 3. ls
+# listuje katalog
+
+# 4. mkdir
+# Tworzenie katalogu
+
+# 5. rmdir
+# Usunięcie pustego katalogu
+
+# 6. touch
+# Zmienia czas dostępu i modyfikacji pliku, lub jeśli plik nie istnieje - tworzy go.
+
+# 7. cp
+# Copuje plik
+
+# 8. mv
+# Przesuwa plik (tym samym sluzy rowniez dla zmiany nazwy)
+
+# 9. rm
+# Kasuje plik
+
+# 10. systemctl
+# Współpracuje z usługami z terminala
+
+# 11. locate
+# Wypisuje gdzie ostatnio, na tym komputerze, był widziany plik o podanej nazwie (lub fragmencie nazwy)
+
+# 12. find
+# Przejrzyj katalog w poszukiwaniu danego pliku
+
+# 13. cat
+# Laczenie plikow
+
+# 14. ps 
+# Pokaz procesy ((ps -e, ps -a) - pokaz wszystkie procesy)
+
+# 15. su
+# Szybka zmiana loginu 
+
+# 16. clear
+# Wyczyśc okienko terminala
+
+
+
+# HOT 32
+
+# 17. head/tail
+# pozwalające wyświetlić tylko poczatek (head) lub koniec (tail)Domyślnie wyświetlają po 10 pierwszych lub ostatnich linii tekstu. 
+
+# 18. grep
+# Przegląda aktualny katalog w poszukiwaniu plików spełniających warunek
+
+# 19. history
+# Pokaż historię komend
+
+# 20. exit
+# Zamkni terminal
+
+# 21. help
+# Wyświetla nam wszystkie polecenia w Linuxie.
+
+# 22. shutdown
+# Zamykanie systemu
+
+# 23. adduser
+# Dodawanie nowego użytkownika 
+
+# 24. newgrp
+# Dodawanie nowej grupy lub przełączanie na inną
+
+# 25. passwd
+# Zmiana hasla
+
+# 26. logout
+# Służy do wylogowania się
+
+# 27. who
+# Sprawdzamy kto jest aktualnie zalogowany
+
+# 28. users
+# Pokazuje kto jest zalogowany
+
+# 29. systemctl
+# Współpracuje z usługami z terminala
+
+# 30. gzip
+# Kompresuje nam archiwum *.qz 
+
+# 31. tar
+# Achiwizuje nam archiwum *.qz
+
+# 32. ps
+Sprawdzanie komunikatów 
